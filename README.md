@@ -5,7 +5,7 @@ A web app that detects and tracks objects in an uploaded video, built during my 
 Upload a video, and it draws a labeled box around every detected object (person, car, dog, etc. — 80 categories total), with a persistent ID number that follows each object across frames.
 
 ## 🌍 Live Demo
-👉 [Try it live here](PASTE_YOUR_STREAMLIT_APP_LINK_HERE)
+👉 [Try it live here](https://codealphaobject-detection-and-tracking.streamlit.app)
 
 ## 🎥 Video Demo
 [LinkedIn video link here]
