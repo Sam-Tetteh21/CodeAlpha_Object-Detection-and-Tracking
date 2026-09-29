@@ -74,4 +74,8 @@ This project was built as part of the **CodeAlpha Artificial Intelligence Intern
 - Task: Object Detection and Tracking
 
 ## 👤 Author
-Samuel — BSc. Information Technology Education, Level 200, AAMUSTED
+**Samuel Tetteh**
+BSc. Information Technology Education, Level 300
+University of Skills Training and Entrepreneurial Development (USTED)
+
+🔗 [LinkedIn](www.linkedin.com/in/samuel-tetteh-b5a247356) · [GitHub](https://github.com/Sam-Tetteh21)
